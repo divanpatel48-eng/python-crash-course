@@ -1,0 +1,2 @@
+famouse_person = 'Elon Musk'
+print(f"{famouse_person} once said, If you’re co-founder or CEO, you have to do all kinds of tasks you might not want to do… If you don’t do your chores, the company won’t succeed… No task is too menial.")

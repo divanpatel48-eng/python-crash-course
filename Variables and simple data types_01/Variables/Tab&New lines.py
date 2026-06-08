@@ -1,0 +1,1 @@
+print ("Languages :- \npython\tc\tc++\njava")
